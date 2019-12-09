@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RiksbankenAPI", "RiksbankenAPI\RiksbankenAPI.csproj", "{EB9F0158-78E8-49D1-A100-FE49A60D204A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RiksbankenService", "RiksbankenService\RiksbankenService.csproj", "{7C021F76-1172-45D3-A1E9-A7FF2D488649}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB9F0158-78E8-49D1-A100-FE49A60D204A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB9F0158-78E8-49D1-A100-FE49A60D204A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB9F0158-78E8-49D1-A100-FE49A60D204A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB9F0158-78E8-49D1-A100-FE49A60D204A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C021F76-1172-45D3-A1E9-A7FF2D488649}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C021F76-1172-45D3-A1E9-A7FF2D488649}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C021F76-1172-45D3-A1E9-A7FF2D488649}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C021F76-1172-45D3-A1E9-A7FF2D488649}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4025F317-FE64-4F4E-9566-1D61ECEF6D9B}
+	EndGlobalSection
+EndGlobal
